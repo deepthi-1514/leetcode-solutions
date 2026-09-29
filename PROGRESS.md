@@ -10,3 +10,4 @@
 | 26/09/2026 | Binary Search | Basic Algorithms | Easy | ✅ Solved | — |
 | 26/09/2026 | Move Zeroes | Basic Algorithms | Easy | ✅ Solved | — |
 | 26/09/2026 | Valid Parentheses | Stacks | Easy | ✅ Solved | — |
+| 29/09/2026 | Reverse Linked List | Linked Lists | Easy | ✅ Solved (Bonus) | — |
